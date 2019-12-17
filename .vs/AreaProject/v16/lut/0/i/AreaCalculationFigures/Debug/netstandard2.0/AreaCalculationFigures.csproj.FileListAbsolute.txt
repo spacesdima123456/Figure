@@ -1,0 +1,7 @@
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.deps.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.csprojAssemblyReference.cache
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.AssemblyInfo.cs
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.csproj.CopyComplete
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaCalculationFigures\Debug\netstandard2.0\AreaCalculationFigures.dll

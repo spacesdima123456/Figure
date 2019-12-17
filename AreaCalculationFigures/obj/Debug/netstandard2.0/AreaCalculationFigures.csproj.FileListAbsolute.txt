@@ -1,0 +1,8 @@
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\bin\Debug\netstandard2.0\AreaCalculationFigures.deps.json
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\bin\Debug\netstandard2.0\AreaCalculationFigures.dll
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\bin\Debug\netstandard2.0\AreaCalculationFigures.pdb
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\obj\Debug\netstandard2.0\AreaCalculationFigures.csprojAssemblyReference.cache
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\obj\Debug\netstandard2.0\AreaCalculationFigures.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\obj\Debug\netstandard2.0\AreaCalculationFigures.AssemblyInfo.cs
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\obj\Debug\netstandard2.0\AreaCalculationFigures.dll
+C:\Users\WORK\source\repos\AreaProject\AreaCalculationFigures\obj\Debug\netstandard2.0\AreaCalculationFigures.pdb

@@ -1,0 +1,11 @@
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.deps.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.runtimeconfig.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.runtimeconfig.dev.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.AssemblyInfo.cs
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.csproj.CopyComplete
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\TestAreaCalculation\Debug\netcoreapp3.0\TestAreaCalculation.dll

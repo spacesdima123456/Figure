@@ -1,0 +1,10 @@
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaProject\Debug\netcoreapp3.0\AreaProject.exe
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaProject\Debug\netcoreapp3.0\AreaProject.deps.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaProject\Debug\netcoreapp3.0\AreaProject.runtimeconfig.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaProject\Debug\netcoreapp3.0\AreaProject.runtimeconfig.dev.json
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\b\AreaProject\Debug\netcoreapp3.0\AreaProject.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaProject\Debug\netcoreapp3.0\AreaProject.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaProject\Debug\netcoreapp3.0\AreaProject.AssemblyInfo.cs
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaProject\Debug\netcoreapp3.0\AreaProject.csproj.CopyComplete
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaProject\Debug\netcoreapp3.0\AreaProject.dll
+C:\Users\WORK\source\repos\AreaProject\.vs\AreaProject\v16\lut\0\i\AreaProject\Debug\netcoreapp3.0\AreaProject.csprojAssemblyReference.cache
